@@ -76,7 +76,7 @@ git commit -m "Initial commit: Flask app setup"
 git log --oneline
 ```
 
----
+---y
 
 ## Step 5 — Create GitHub Repository & Push
 
